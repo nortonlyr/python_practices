@@ -22,3 +22,7 @@ class App(tk.Frame):
 
     def print_contents(self,event):
         print('Hi. The current entry content is:', self.contents.get())
+
+root = tk.Tk()
+myapp = App(root)
+myapp.mainloop()
