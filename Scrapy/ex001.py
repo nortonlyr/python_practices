@@ -1,0 +1,2 @@
+from scrapy_gui import load_selector
+load_selector(response)
