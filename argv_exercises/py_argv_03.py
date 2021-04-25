@@ -12,3 +12,5 @@ if __name__ == '__main__':
     if '-i' in myargs:  # Example usage.
         print(myargs['-i'])
     print(myargs)
+
+    # https://gist.github.com/dideler/2395703
