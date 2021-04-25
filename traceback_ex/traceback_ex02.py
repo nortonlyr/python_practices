@@ -14,5 +14,6 @@ def main():
         print (f'exc_value: {exc_value}')
         print (f'exc_trackback_obj: {exc_trackback_obj}')
 
+
 if __name__ == '__main__':
     main()
