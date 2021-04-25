@@ -2,6 +2,7 @@ import logging
 import os.path
 import time
 
+# reference: https://www.cnblogs.com/xianyulouie/p/11041777.html
 # 第一步，创建一个logger
 logger = logging.getLogger()
 logger.setLevel(logging.INFO)  # Log等级总开关
