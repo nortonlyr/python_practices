@@ -26,5 +26,6 @@ def main():
     for pet in pets:
         pet.make_voice()
 
+
 if __name__ == '__main__':
     main()
