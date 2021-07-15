@@ -1,4 +1,4 @@
 # python_practices
 
-all python
+all python knowledge
  
