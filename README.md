@@ -1,6 +1,6 @@
-# python_practices
+## python_practices
 
-all python knowledge
+In this repo, all python knowledge are studied 
 
 keep practicing
 
