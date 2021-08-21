@@ -1,9 +1,6 @@
 ## python_practices
 
-In this repo, all python knowledge are studied 
-
-keep practicing
-
+In this repo, all python knowledge are studied.
 
 Regular expression for splunk: 
 
