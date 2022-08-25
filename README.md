@@ -2,7 +2,7 @@
 
 In this repo, all python knowledge are studied.
 
-Regular expression for splunk: 
+Regular expression for splunk and more: 
 
 https://github.com/siddharthajuprod07/youtube/tree/master/rex_vs_regex_vs_erex
 
